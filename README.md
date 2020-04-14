@@ -1,3 +1,5 @@
+Should I have permission to do this?
+
 # heroku-buildpack-static
 **NOTE**: This buildpack is in an experimental OSS project.
 
